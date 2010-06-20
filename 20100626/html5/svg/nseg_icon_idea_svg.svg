@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="449pt" height="463pt" viewBox="0 0 449 463" version="1.1" id="nseg_icon">
+<defs>
+<clipPath id="clip0">
+  <rect width="449" height="463"/>
+</clipPath>
+</defs>
+
+<g id="prefecture" clip-path="url(#clip0)">
+
+<!-- 菱形 -->
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(10.980392%,0%,23.529412%); opacity: 1;stroke-miterlimit: 10;" d="M 43.4655 36.3497 L 48.4655 32.3497 L 53.4655 36.3497 L 48.4655 40.3497 L 43.4655 36.3497 Z M 43.4655 36.3497 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(10.980392%,0%,23.529412%); opacity: 1;stroke-miterlimit: 10;" d="M 37.4655 41.3497 L 42.4655 37.3497 L 47.4655 41.3497 L 42.4655 45.3497 L 37.4655 41.3497 Z M 37.4655 41.3497 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(10.980392%,0%,23.529412%); opacity: 1;stroke-miterlimit: 10;" d="M 46.0471 44.1462 L 51.0471 40.1462 L 56.0471 44.1462 L 51.0471 48.1462 L 46.0471 44.1462 Z M 46.0471 44.1462 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(10.980392%,0%,23.529412%); opacity: 1;stroke-miterlimit: 10;" d="M 40.0471 49.1462 L 45.0471 45.1462 L 50.0471 49.1462 L 45.0471 53.1462 L 40.0471 49.1462 Z M 40.0471 49.1462 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+
+</g>
+
+
+<g id="nseg" clip-path="url(#clip0)">
+
+<!-- N -->
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(33.725491%,51.764709%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 35.6523 41.05 L 42.0273 36 L 48.5023 41.25 L 54.2523 36.625 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+
+<!-- S -->
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(33.725491%,51.764709%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 48.2523 31.65 L 42.3773 36.35 L 48.6023 41.3 L 42.7023 46.05 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+
+<!-- E -->
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(33.725491%,51.764709%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 42.2523 36.65 L 36.4023 41.325 L 42.5773 46.275 L 39.0023 49.125 L 44.9023 53.85 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+
+<!-- G -->
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(33.725491%,51.764709%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 50.7523 39.45 L 45.0023 44.2 L 51.0523 49 L 57.1023 44.175 L 54.0023 41.65 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+
+</g>
+
+<g id="nseg_red" clip-path="url(#clip0)">
+
+<!-- N -->
+<path style="fill: none; stroke-width: 0.7; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(79.215688%,9.411765%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 35.6523 41.05 L 42.0273 36 L 48.5023 41.25 L 54.2523 36.625 " transform="matrix(20,0,0,20,-703.212415,-623.161053)"/>
+
+</g>
+
+</svg>

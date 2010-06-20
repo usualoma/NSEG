@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="265pt" height="236pt" viewBox="0 0 265 236" version="1.1">
+<defs>
+<clipPath id="clip0">
+  <rect width="265" height="236"/>
+</clipPath>
+</defs>
+
+<g id="mr_nseg" clip-path="url(#clip0)">
+
+<!-- N -->
+<path style="fill: none; stroke-width: 0.3; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(0%,0%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 19.6 8.6 C 19.8988 8.6 22.75 7.3 24.2 6.95 C 25.65 6.6 24.3 7.9 24.65 8.4 C 25 8.9 27.1 7.25 29.05 7.05 " transform="matrix(20,0,0,20,-350.676,-84.2994)"/>
+
+<!-- S -->
+<path style="fill: none; stroke-width: 0.3; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(0%,0%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 22.761 8.63193 C 21.2416 8.11956 20.9766 9.40932 21.86 9.37398 C 22.7434 9.33864 23.2381 10.7167 21.2946 10.1514 " transform="matrix(20,0,0,20,-350.676,-84.2994)"/>
+
+<!-- E -->
+<path style="fill: none; stroke-width: 0.3; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(0%,0%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 26.4889 9.35631 C 26.7877 9.35631 27.7964 9.37398 28.1144 9.37398 C 28.4324 9.37398 28.0967 8.04889 26.9836 8.41992 C 25.8706 8.79094 26.3299 10.9641 28.1321 10.1514 " transform="matrix(20,0,0,20,-350.676,-84.2994)"/>
+
+<!-- G -->
+<path style="fill: none; stroke-width: 0.3; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(0%,0%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 19.45 5.95 C 19.8982 5.95 20.15 6.9 19.8 7.6 C 19.45 8.3 18.9 7.95 18.3 7.65 C 17.7 7.35 17.35 6.65 18.15 5.9 C 18.95 5.15 25.75 3 28.95 5.65 C 32.15 8.3 30.55 14.9 26.5 15.75 C 22.45 16.6 15.7 13.15 19.15 12.3 C 22.6 11.45 28 14.05 28.55 14.55 " transform="matrix(20,0,0,20,-350.676,-84.2994)"/>
+
+</g>
+
+</svg>
